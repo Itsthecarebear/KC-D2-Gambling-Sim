@@ -8,13 +8,13 @@ Goals:
 
 -~~add points~~
 
+-expand point system
+
 -add "flavor"
-
-    -function to choose which dice to keep and which to reroll
  
-    -identify 
+	-identify dice to keep, and dice to reroll
 
-    -loop function with only selected diced
+	-loop function with only selected diced
 
 -~~logic for maintaining loop only if points are scored (points or bust)~~
 
@@ -24,11 +24,11 @@ Goals:
  
 -option to call points amount per turn to allow for score multiplier
 
-    -must be predetermined amounts
+	-must be predetermined amounts
 
 -~~difficulty option~~
 
-		-must reach x amount of points
+	-must reach x amount of points
   
 -add GUI
 
