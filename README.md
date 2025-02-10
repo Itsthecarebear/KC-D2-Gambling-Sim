@@ -4,11 +4,11 @@ Currently, this is just the basic framework that I am using to start making a re
 
 Goals:
 
--**make framework and basic program**
+-~~make framework and basic program~~
 
--**add points**
+-~~add points~~
 
--add flavor
+-add "flavor"
 
     -function to choose which dice to keep and which to reroll
  
@@ -16,18 +16,22 @@ Goals:
 
     -loop function with only selected diced
 
--**logic for maintaining loop only if points are scored (points or bust)**
+-~~logic for maintaining loop only if points are scored (points or bust)~~
 
-	-**score for 1s, 5s, trips/quads/septs/sexs**
+	-score for 1s, 5s, trips/quads/septs/sexs
  
-	-**EACH dice needs own score adding**
+	-EACH dice needs own score adding
  
 -option to call points amount per turn to allow for score multiplier
 
     -must be predetermined amounts
 
--**difficulty option**
+-~~difficulty option~~
 
-		-**must reach x amount of points**
+		-must reach x amount of points
   
 -add GUI
+
+-idk what else yet
+
+-PROFIT?!?!
