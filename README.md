@@ -1,3 +1,5 @@
+(python)
+
 Currently, this is just the basic framework that I am using to start making a replica of the KC:D gambling mini-game. Right now it only runs in the terminal.
 
 Goals:
