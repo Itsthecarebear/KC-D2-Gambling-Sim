@@ -1,5 +1,8 @@
 import random
 
+#This is all going to be compiled into a singluar file for the final product
+#It will then be placed into the final product folder along with other supporting files for compilation
+
 def shoot():#main body of the program
     points = 0
     difficulty = input("Select your difficulty level: 1, 2, 3 ")#this is only for temp measures until GUI is implemented
